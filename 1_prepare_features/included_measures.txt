@@ -1,0 +1,146 @@
+# 2021-02-03
+# Repeated measures included from "gendep-share-repeated-measures.dta".
+# -----------------------------------------------------------------------------
+
+--------------- --------------- ---------------------
+Included?       Variable        Label
+--------------- --------------- ---------------------
+YES             subjectid       
+NO              bloodsampleid   bloodsampleId
+NO              centreid        
+NO              sex             
+NO              age             
+NO              drug            
+YES             week            
+YES             madrs1wk        Apparent sadness
+YES             madrs2wk        Reported sadness
+YES             madrs3wk        Inner tension
+YES             madrs4wk        Reduced sleep
+YES             madrs5wk        Reduced appetite
+YES             madrs6wk        Concentration difficulties
+YES             madrs7wk        Lassitude
+YES             madrs8wk        Inability to feel
+YES             madrs9wk        Pessimistic thought
+YES             madrs10wk       Suicidal thoughts
+NO              madrswhenwk     Date MADRS completed
+NO              madrswherewk    Mode/place of MADRS completion
+YES             madrstotwk      MADRS total score
+YES             hamd1wk         Depressed mood
+YES             hamd2wk         Feeling of guilt
+YES             hamd3wk         Suicide
+YES             hamd4wk         Insomnia early
+YES             hamd5wk         Insomnia middle
+YES             hamd6wk         Insomnia late
+YES             hamd7wk         Work and activities
+YES             hamd8wk         Retardation
+YES             hamd9wk         Agitation
+YES             hamd10wk        Anxiety psychic
+YES             hamd11wk        Anxiety somatic
+YES             hamd12wk        Gastro-intestinal
+YES             hamd13wk        Somatic general
+YES             hamd14wk        Genital symptoms
+YES             hamd15wk        Hypochondriasis
+YES             hamd17wk        Insight
+NO              hamdwhenwk      
+NO              hamdwherewk     
+YES             hamd16wk        Loss of weight
+YES             hamdtotwk       HRSD-17 total score
+YES             bdi1wk          Sad
+YES             bdi2wk          Future
+YES             bdi3wk          Failure
+YES             bdi4wk          Enjoyment
+YES             bdi5wk          Guilt
+YES             bdi6wk          Punished
+YES             bdi7wk          Disappointed
+YES             bdi8wk          Blame self
+YES             bdi9wk          Suicide
+YES             bdi10wk         Cry
+YES             bdi11wk         Irritated
+YES             bdi12wk         Interest
+YES             bdi13wk         Decisions
+YES             bdi14wk         Appearance
+YES             bdi15wk         Work
+YES             bdi16wk         Sleep
+YES             bdi17wk         Tired
+YES             bdi18wk         Appetite
+YES             bdi19wk         Weight
+YES             bdi20wk         Health
+YES             bdi21wk         Sex
+NO              bdiwhenwk       
+NO              bdiwherewk      
+YES             bditotwk        Beck Depression Inventory
+                                total score
+NO              asec1commwk     
+NO              asec1linkwk     
+NO              asec1wk         Dry mouth
+NO              asec2commwk     
+NO              asec2linkwk     
+NO              asec2wk         Drowsiness
+NO              asec3commwk     
+NO              asec3linkwk     
+NO              asec3wk         Insomnia
+NO              asec4commwk     
+NO              asec4linkwk     
+NO              asec4wk         Blurred vision
+NO              asec5commwk     
+NO              asec5linkwk     
+NO              asec5wk         Headache
+NO              asec6commwk     
+NO              asec6linkwk     
+NO              asec6wk         Constipation
+NO              asec7commwk     
+NO              asec7linkwk     
+NO              asec7wk         Diarrhoea
+NO              asec8commwk     
+NO              asec8wk         Incresaed appetite
+NO              asec9commwk     
+NO              asec9linkwk     
+NO              asec9wk         Decreased appetite
+NO              asec10commwk    
+NO              asec10linkwk    
+NO              asec10wk        Nausea or vomiting
+NO              asec11commwk    
+NO              asec11wk        Problems with urination
+NO              asec12commwk    
+NO              asec12wk        Problems with sexual function
+NO              asec13commwk    
+NO              asec13linkwk    
+NO              asec13wk        Palpitations
+NO              asec14commwk    
+NO              asec14linkwk    
+NO              asec14wk        Light-headed on standing
+NO              asec15commwk    
+NO              asec15linkwk    
+NO              asec15wk        Room is spining round
+NO              asec16commwk    
+NO              asec16linkwk    
+NO              asec16wk        Sweating
+NO              asec17commwk    
+NO              asec17linkwk    
+NO              asec17wk        Incresed body temperature
+NO              asec18commwk    
+NO              asec18wk        Tremor
+NO              asec19commwk    
+NO              asec19wk        Disorientation
+NO              asec20commwk    
+NO              asec20wk        Yawning
+NO              asec21commwk    
+NO              asec21linkwk    
+NO              asec21wk        Weight gain
+NO              asecadd1wk      
+NO              asecadd2wk      
+NO              asecadd3wk      
+NO              asecwhenwk      
+NO              asecwherewk     
+NO              asec8linkwk     
+NO              asec11linkwk    
+NO              asec12linkwk    
+NO              asec18linkwk    
+NO              asec19linkwk    
+NO              asec20linkwk    
+YES             gafwk           Global assessment of 
+                                functioning
+NO              gafwhenwk       
+NO              gafwherewk      
+--------------- --------------- ---------------------
+
